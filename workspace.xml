@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c285fd7e-c8ab-4af0-8567-46404aeac3ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TelegramBotApi/TelegramBotApi.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d1gCFfkdayzgs4j4B4XnowQEWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c285fd7e-c8ab-4af0-8567-46404aeac3ae" name="Default Changelist" comment="" />
+      <created>1591597883445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591597883445</updated>
+      <workItem from="1591597884863" duration="59000" />
+      <workItem from="1591597982060" duration="787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1591598742387">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591598742387" />
+    <state x="647" y="330" key="Github.ShareDialog" timestamp="1591598258971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="647" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1591598258971" />
+    <state x="397" y="137" key="Github.UntrackedFilesDialog" timestamp="1591598389781">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="397" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591598389781" />
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591598183049">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1591598183049" />
+    <state x="561" y="294" key="git4idea.rebase.GitRebaseDialog" timestamp="1591598406982">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="561" y="294" key="git4idea.rebase.GitRebaseDialog/0.0.1536.864@0.0.1536.864" timestamp="1591598406982" />
+    <state x="599" y="223" key="svn.repositoryBrowser" timestamp="1591598753523">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="223" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" timestamp="1591598753523" />
+  </component>
+</project>
